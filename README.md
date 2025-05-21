@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software, programing, data,...
 - 🌱 I’m currently learning IT degree. This is my second Bachelor's degree.
 - 💞️ I’m looking to collaborate on small project to practice and finding a good mentor in Software field.
-- 📫 How to reach me: thduy0699@gmail.com
+- 📫 Please contact me for further discussion: thduy0699@gmail.com
 
 <!---
 tnthanhduy0699/tnthanhduy0699 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
